@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-datocms-homepage-ts",
+  "name": "gatsby-datocms",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
